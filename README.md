@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techmoonverse
-- 👀 I’m interested in making Node projects 
-- 🌱 I’m currently learning Nodejs
+- 👀 I’m interested in making reactjs projects 
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on Instagram and linkdin 
 - 📫 Reach me using Instagram @adityasingh_up
 - 😄 Pronouns: He / Him
